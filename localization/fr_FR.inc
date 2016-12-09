@@ -16,4 +16,4 @@ $labels['success_changed'] = 'Message d\'absence correctement configuré';
 $labels['failed'] = 'Erreur lors de l\'application des options du message d\'absence';
 $labels['aliases'] = 'Alias de messagerie :';
 // Button text
-$labels['aliasesbutton'] = 'Get aliases';?>
+$labels['aliasesbutton'] = 'Obtenir les alias';?>
