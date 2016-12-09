@@ -16,5 +16,4 @@ $labels['success_changed'] = 'Poissaoloasetukset tallentuivat onnistuneesti';
 $labels['failed'] = 'Poissaolo asetukset epäonnistuivat';
 $labels['aliases'] = 'Alias osoitteet';
 // Button text
-$labels['aliasesbutton'] = 'Hae aliakset';
-?>
+$labels['aliasesbutton'] = 'Hae aliakset';?>

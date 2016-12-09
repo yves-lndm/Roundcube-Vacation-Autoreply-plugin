@@ -16,5 +16,4 @@ $labels['success_changed'] = 'Meddelande inställningar sparade med lyckat resul
 $labels['failed'] = 'Semster inställingar misslyckades!';
 $labels['aliases'] = 'E-post adresser';
 // Button text
-$labels['aliasesbutton'] = 'Hämta aliases';
-?>
+$labels['aliasesbutton'] = 'Hämta aliases';?>
