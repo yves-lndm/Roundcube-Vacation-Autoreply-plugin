@@ -2,13 +2,18 @@ CHANGELOG for the Roundcube vacation plugin
 
 Version 20161209
 - [general] Transfered on github with all needed modifications to work with Roundcube 1.2.3, code changes by Yves Bernard <yves@lndm.fr>
-- [virtual] Deleted MDB2 acces (no more used since PHP5.3)
+- [virtual] Deleted MDB2 access (no more used since PHP5.3)
 - [virutal] Added utf8_encode for subject and body at "get" (accentuated characters problem)
 - [driver] Added utf8_decode for the same reason
 - [general] Modified form generation (display problem)
 - [template] Modified page content margins
 - [template] Modified default template
 - [translations] Added French translation
+- [translations] Added Catalan translation
+- [translations] Added Swedish translation
+- [translations] Added Finnish translation
+- [translations] Added Portuguese translation
+
 
 ****************
 
