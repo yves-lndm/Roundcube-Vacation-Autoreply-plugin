@@ -14,7 +14,6 @@ $labels['forward'] = 'Nastavení přesměrování';
 $labels['success_changed'] = 'Nastavení bylo úspěšně změněno';
 $labels['failed'] = 'Automatickou odpověď / Přeposílání se nepodařilo nastavit!';
 //$labels['separateaddresses'] = 'Více adres oddělujte čárkou';
-//$labels['separateaddresses'] = 'Více adres oddělujte čárkou';
 $labels['separate_alias'] = 'Oddělte více adres čárkou';
 $labels['separate_forward'] = 'Oddělte více adres čárkou';
 ?>
